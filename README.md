@@ -1,15 +1,22 @@
-# Construct an efficient plant or factory layout for a manufacturing your suggest product by strategically arranging machines, workstations, storage areas, and material handling systems to optimize workflow, minimize production time, and reduce costs, while considering factors such as space utilization, safety regulations, worker ergonomics, and future scalability, and create a detailed layout model that integrates equipment placement with logical process flow, ensuring smooth coordination between different production stages and effective assembly operations.
+PROCESS PLANNING AND PLANT LAYOUT FOR TRANSMISSION SHAFT
 
-# TITLE OF THE PRODUCT
+Introduction This document presents the complete process planning and plant layout for the manufacture of a Transmission Shaft using CNC and NC machines. The objective is to achieve efficient material flow, high productivity, and safe working conditions.
+Product Description Product: Transmission Shaft Function: Transmits torque and rotary motion Application: Automotive and industrial machinery Production Type: Batch production Manufacturing Method: CNC Turning and NC machining
+Material Selection Material Selected: EN8 / AISI 1040 Steel Reason: High strength, good machinability, and suitability for CNC finish turning. Raw Material Form: Hot rolled round bar.
+Process Planning The transmission shaft is manufactured using CNC and NC machines without grinding. Surface finish and dimensional accuracy are achieved through finish turning operations. Manufacturing Steps:
+Raw material cutting using band saw
+Facing and centering on CNC turning centre
+Rough turning
+Step and profile turning
+Grooving and chamfering
+Drilling or tapping (if required)
+Finish turning
+Deburring
+Inspection
+Machines Used • Band Saw Machine • CNC Turning Centre • NC / Conventional Machine • Inspection table with gauges
+Time Estimation (Approximate) Cutting: 4 min Facing & Turning: 35 min Drilling/Tapping: 6 min Deburring & Inspection: 9 min Total Cycle Time per Component: ~54 minutes
+Quality Control Inspection is carried out using vernier calipers, micrometers, and dial gauges. Parameters checked include diameter, length, runout, and surface finish.
+Plant Layout The plant layout is designed to ensure smooth material flow, minimum handling time, and operator safety. The layout includes designated areas for raw material storage, CNC machining, NC machining, conveyors, inspection, and finished goods storage. The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view arrangement of machines, safety fencing, conveyor system, storage racks, and inspection area
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-12 at 10 48 08" src="https://github.com/user-attachments/assets/c60cd4b7-e579-4acd-9b0e-1c16478dade4" />
 
-# DESCRIPTION
-
-# CHALLENGES FACED TO DEVELOP
-
-# PLANT LAYOUT MODEL
-
-# FACTORY LAYOUT MODEL
-
-# PROTOTYPE MODEL (Photo)
-
-# INFERENCE
+Conclusion The CNC-based process planning and well-organized plant layout ensure efficient production of transmission shafts with consistent quality, reduced cycle time, and improved safety.
